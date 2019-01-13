@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: We sell veg</title>
+	<atom:link href="https://abdulbasit1993.github.io/Resto/2019/01/13/we-sell-veg/feed/" rel="self" type="application/rss+xml" />
+	<link>https://abdulbasit1993.github.io/Resto/2019/01/13/we-sell-veg/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sun, 13 Jan 2019 19:54:15 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.3</generator>
+</channel>
+</rss>
